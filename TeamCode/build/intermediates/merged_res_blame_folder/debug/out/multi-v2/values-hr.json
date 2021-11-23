@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/macbookair/Desktop/FTC/AEstheticRobotics_mainprogram/TeamCode/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml",
+            "map": [
+                {
+                    "source": "/Users/macbookair/.gradle/caches/transforms-3/d732f4d1d5007e0f8f7829de1b79d464/transformed/support-compat-28.0.0/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

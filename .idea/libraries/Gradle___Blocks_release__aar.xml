@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :Blocks-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1646fed7dc4f84d04748f7a2ee2a5d94/transformed/Blocks-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1646fed7dc4f84d04748f7a2ee2a5d94/transformed/Blocks-release/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1646fed7dc4f84d04748f7a2ee2a5d94/transformed/Blocks-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

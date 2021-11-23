@@ -1,0 +1,4 @@
+#Thu Nov 11 18:51:23 KRAT 2021
+base.0=/Users/macbookair/Desktop/FTC/AEstheticRobotics_mainprogram/TeamCode/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

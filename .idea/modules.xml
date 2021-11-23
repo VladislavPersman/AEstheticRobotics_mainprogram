@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AEstheticRobotics_mainprogram.iml" filepath="$PROJECT_DIR$/.idea/modules/AEstheticRobotics_mainprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FtcRobotController/AEstheticRobotics_mainprogram.FtcRobotController.iml" filepath="$PROJECT_DIR$/.idea/modules/FtcRobotController/AEstheticRobotics_mainprogram.FtcRobotController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TeamCode/AEstheticRobotics_mainprogram.TeamCode.iml" filepath="$PROJECT_DIR$/.idea/modules/TeamCode/AEstheticRobotics_mainprogram.TeamCode.iml" />
+    </modules>
+  </component>
+</project>
